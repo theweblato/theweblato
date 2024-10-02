@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Development 🌐 | UI/UX Design 🎨 | Custom Solutions 🛠️</h3>
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="/placeholder.svg?height=320&width=500" width="500" height="320" />
+    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
 <details><summary> <h3> Who Are We 🕵️‍♂️ ? </h3></summary>
